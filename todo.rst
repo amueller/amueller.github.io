@@ -1,15 +1,20 @@
-add oreilly webcast and strata talk
-rework talk?
+fix oreilly webcast 
 
+button to download slides etc for talks
+color scheme
+fix scrolling animation?!
+upload to github
+
+add strata talk
 format papers
 download papers / backup pdf
-add projects
-color scheme
-fix footer
-fix scrolling animation?!
-add link to blog
 email contact link
-upload to github
 make cds link to it
 make ais link to it
+rework talk?
 
+..add oreilly webcast
+..add flow chart
+..add projects
+..fix footer kinda done
+..add link to blog kind done
