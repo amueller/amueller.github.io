@@ -1,5 +1,5 @@
-add picture
-add papers
+format papers
+download papers / backup pdf
 add projects
 fix footer
 fix scrolling animation?!
