@@ -1,3 +1,6 @@
+add oreilly webcast and strata talk
+rework talk?
+
 format papers
 download papers / backup pdf
 add projects
