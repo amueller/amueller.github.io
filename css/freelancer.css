@@ -621,8 +621,8 @@ fieldset[disabled] .btn-info.active {
   background-color: #ffffff;
 }
 .navbar-default {
-  background-color: #f8f8f8;
-  border-color: #e7e7e7;
+  background-color: #222222;
+  border-color: #121212;
 }
 .navbar-default .navbar-brand {
   color: #777777;
@@ -633,7 +633,7 @@ fieldset[disabled] .btn-info.active {
   background-color: transparent;
 }
 .navbar-default .navbar-text {
-  color: #777777;
+  color: #658b6f;
 }
 .navbar-default .navbar-nav > li > a {
   color: #777777;
@@ -647,7 +647,7 @@ fieldset[disabled] .btn-info.active {
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #555555;
-  background-color: #e7e7e7;
+  background-color: #121212;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -667,7 +667,7 @@ fieldset[disabled] .btn-info.active {
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: #e6e6e6;
+  border-color: #111111;
 }
 .navbar-default .navbar-nav > .dropdown > a:hover .caret,
 .navbar-default .navbar-nav > .dropdown > a:focus .caret {
@@ -677,7 +677,7 @@ fieldset[disabled] .btn-info.active {
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color: #e7e7e7;
+  background-color: #121212;
   color: #555555;
 }
 .navbar-default .navbar-nav > .open > a .caret,
