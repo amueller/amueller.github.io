@@ -38,7 +38,7 @@ hr.star-primary {
 }
 hr.star-light:after,
 hr.star-primary:after {
-  content: "\f005";
+  content: "\f085";
   font-family: FontAwesome;
   display: inline-block;
   position: relative;
@@ -57,7 +57,7 @@ hr.star-primary {
   border-color: #658b6f;
 }
 hr.star-primary:after {
-  background-color: white;
+  background-color: #dee1dd;
   color: #658b6f;
 }
 .img-centered {
