@@ -1,7 +1,7 @@
 body {
   overflow-x: hidden;
   color: #3e4757;
-  background-color: #ffffff;
+  background-color: #b4c9cf;
 }
 p {
   font-size: 20px;
@@ -57,7 +57,7 @@ hr.star-primary {
   border-color: #3e4757;
 }
 hr.star-primary:after {
-  background-color: #ffffff;
+  background-color: #b4c9cf;
   color: #3e4757;
 }
 .img-centered {
