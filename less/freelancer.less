@@ -61,6 +61,15 @@ a.active {
 	outline: none;
 }
 
+.success a,
+    a:hover,
+    a:focus,
+    a:active,
+    a.active {
+        color: @gray-dark;
+        outline: none;
+}
+
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
@@ -462,26 +471,26 @@ footer {
 // Alternate buttons
 // --------------------------------------------------
 
-.btn-default {
+.success .btn-default {
   .button-variant(@btn-default-color; @btn-default-bg; @btn-default-border);
 }
-.btn-primary {
+.success .btn-primary {
   .button-variant(@btn-primary-color; @btn-primary-bg; @btn-primary-border);
 }
 // Warning appears as orange
-.btn-warning {
+.success .btn-warning {
   .button-variant(@btn-warning-color; @btn-warning-bg; @btn-warning-border);
 }
 // Danger and error appear as red
-.btn-danger {
+.success .btn-danger {
   .button-variant(@btn-danger-color; @btn-danger-bg; @btn-danger-border);
 }
 // Success appears as green
-.btn-success {
+.success .btn-success {
   .button-variant(@btn-success-color; @btn-success-bg; @btn-success-border);
 }
 // Info appears as blue-green
-.btn-info {
+.success .btn-info {
   .button-variant(@btn-info-color; @btn-info-bg; @btn-info-border);
 }
 
