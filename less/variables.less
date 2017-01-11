@@ -9,17 +9,24 @@
 // Grays
 // -------------------------
 
-@gray-darker:            #2b2b33; // #222
-@gray-dark:              #3e4757;   // #333
-@gray:                   #c45533; // #555
-@gray-light:             #fcab60;   // #999
-@gray-lighter:           #b4c9cf; // #eee
+@gray-darker:            #2b2b33; // #222 navbar
+@gray-dark:              #000000;   // #333 font1
+@gray:                   #9099A2; // #555 background2
+@gray-light:             #000000;   // #999 font2?
+@gray-lighter:           #D5D5D5; // #eee  background1
+
+@mid-gray:               #9099A2;
+@dark-blue:              #6D7993;
+@dusty-purple:           #96858f;
 
 // Brand colors
 // -------------------------
 
-@brand-primary:         @gray-dark;
-@brand-success:         @gray;
+@brand-primary:         #000000;
+@brand-primary-a:       @dark-blue;
+@brand-success:         lighten(@mid-gray, 10%);
+@brand-success-text:    #000000;
+@brand-success-a:       darken(@dusty-purple, 25%);
 @brand-warning:         #f0ad4e;
 @brand-danger:          #d9534f;
 @brand-info:            #5bc0de;
